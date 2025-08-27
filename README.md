@@ -159,6 +159,6 @@ const aryan = {
 <!-- Animated footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-**"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."** – Martin Fowler
+
 
 </div>
