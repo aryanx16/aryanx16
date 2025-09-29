@@ -21,8 +21,8 @@ jobs:
           USERNAME: aryanx16
           # Optional environment variables:
           MAX_REPOS: '100'
-          YEAR: '2025'            # generate for a specific year (optional)
-          SETTING_JSON: './setting.json' # if you add a settings file
+          # YEAR: '2025'            # generate for a specific year (optional)
+          SETTING_JSON: './conf/settings.json' # if you add a settings file
 
       - name: Commit generated SVGs
         run: |
