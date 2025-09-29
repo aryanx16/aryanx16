@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /> -->
 
 <!-- Header with animated typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=700&color=AAAAA&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=700&color=AAAAA&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" /> -->
 
 <!-- Animated wave -->
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> -->
 
-### <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="33"/>  Passionate Full Stack Developer from India 🇮🇳 <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="33"/> 
+<!-- ### <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="33"/>  Passionate Full Stack Developer from India 🇮🇳 <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="33"/>  -->
 
 
 <!-- Profile counters with modern design -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanx16&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/aryanx16?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img src="https://img.shields.io/github/stars/aryanx16?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
+</p> -->
 
 <!-- Animated divider -->
 <!-- Animated lightning -->
@@ -25,10 +25,12 @@
 <!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/> -->
 
 <!-- Glowing line -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
+
+
 
 ```javascript
 const aryan = {
@@ -39,6 +41,24 @@ const aryan = {
     currentFocus: "Building scalable web applications",
 };
 ```
+
+<div align="center">
+<h2>Aryan's Stats</h2>
+</div>
+
+<br>
+
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanx16&hide_border=true&theme=transparent"/> 
+</p>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanx16&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanx16&theme=transparent&utcOffset=3.5" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanx16&theme=transparent" height="180em" alt="Commitments"/>
+</div>
+
+<img src="./profile-3d-contrib/profile-3d-contrib.svg" alt="profile" >
+
 
 <!-- <div align="center">
 
@@ -82,23 +102,6 @@ const aryan = {
 
 ---
 
-## <img align="center" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="38"/> GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanx16&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanx16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryanx16&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="33"/> Competitive Programming
 
 <div align="center">
@@ -115,7 +118,7 @@ const aryan = {
 <td align="center">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30">
 <br><strong>Codeforces</strong>
-<br><a href="https://codeforces.com/profile/willgaxxx">willgaxxx</a>
+<br><a href="https://codeforces.com/profile/willgaxxx">willgaxXx</a>
 <br>🚀 Upcoming Expert
 </td>
 <td align="center">
@@ -128,27 +131,26 @@ const aryan = {
 </table>
 
 </div>
----
 
-## <img align="center" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="38"/> What I'm Up To
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **Advanced React Patterns & Microservices**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, or anything tech!**
+<!-- ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">  -->
+## Connect With Me
 
----
+<p align="center">
+  <a href="https://github.com/aryanx16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0A66C2" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-babare-49bb24298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://babare.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:aryanbabare1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0A66C2" />
+  </a>
+</p>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanx16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-babare-49bb24298/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://babare.site)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanbabare1@gmail.com)
-
-</div>
 
 ---
 
